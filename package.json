@@ -24,6 +24,7 @@
   "main": "server/index.js",
   "repository": "dickeyxxx/simple-react",
   "scripts": {
+    "start": "node server",
     "test": "standard"
   }
 }
